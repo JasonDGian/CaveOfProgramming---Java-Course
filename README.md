@@ -1,8 +1,7 @@
 # Cave Of Programming Java Course.
 
-Greetings!
-   
-Welcome to my repository! My name is David Jason, and I'm currently learning **Java**.
+### Welcome to my repository! 
+My name is David Jason, and I'm currently learning **Java** among other things programming related.
 
 <hr>
 
@@ -14,4 +13,5 @@ Thank you for visiting my repository! I hope you find my learning journey and do
 
 <hr>
    
-_All contents within this repository are currently a work in progress and subject to change, included this readme._
+> [!NOTE]
+> _All contents within this repository are currently a work in progress and subject to change, included this readme._
