@@ -71,3 +71,21 @@
 - "Off by one" problem -> Index 0 counting.
 - OutOfBounds error.
 - Array iteration and the 'length' property.
+
+## Lesson 11 - String Arrays
+### Key Takeaways
+- Declaration and initialization in single sentence.
+- Values accessing methods.
+- New iteration method with a _for each_ loop.
+- Difference between primitive and non-primitive types.
+- Non-primitive types default null property.
+
+## Lesson 12 - Multidimensional Arrays
+### Key Takeaways
+- Declaration and initialization of multidimensional arrays.
+- Access to values.
+- Iteration with for loops and counter variables.
+- Regular and irregular multidimensional arrays.
+
+
+
