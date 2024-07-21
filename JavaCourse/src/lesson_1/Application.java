@@ -1,4 +1,4 @@
-package tut_1_package;
+package lesson_1;
 
 public class Application {
 
